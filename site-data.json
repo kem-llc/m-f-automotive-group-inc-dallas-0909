@@ -1,0 +1,322 @@
+{
+  "business": {
+    "name": "M & F Automotive Group Inc",
+    "shortName": "M & F Automotive",
+    "tagline": "Dallas' Trusted Auto Repair Experts Since 1990",
+    "niche": "Auto Mechanic",
+    "phone": "(214) 366-0909",
+    "address": "10435 Denton Dr, Dallas, TX 75220",
+    "city": "Dallas, TX",
+    "hours": "Mon-Fri: 7:30 AM – 5:30 PM, Sat: 8 AM – 12 PM",
+    "ctaLabel": "Schedule Your Service Today",
+    "headerCta": "Call Now"
+  },
+  "seo": {
+    "title": "M & F Automotive Group Inc | Expert Auto Mechanic in Dallas, TX",
+    "description": "Trust M & F Automotive Group Inc in Dallas, TX for expert auto repair, maintenance, and diagnostics. Family-owned since 1990. Call (214) 366-0909 today!"
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Dallas’ Premier Auto Repair Since 1990",
+      "headline": "Expert Auto Mechanic Service You Can Trust in Dallas",
+      "subheadline": "From routine maintenance to complex repairs, our certified technicians deliver quality workmanship and honest pricing. Your car is in safe hands.",
+      "primaryCta": "Book an Appointment",
+      "secondaryCta": "Call (214) 366-0909"
+    },
+    "stats": [
+      {
+        "value": "35+",
+        "label": "Years of Service"
+      },
+      {
+        "value": "4.6",
+        "label": "Average Customer Rating"
+      },
+      {
+        "value": "1000s",
+        "label": "Vehicles Serviced"
+      },
+      {
+        "value": "100%",
+        "label": "Customer Satisfaction Commitment"
+      }
+    ],
+    "featureSections": [
+      {
+        "eyebrow": "Comprehensive Diagnostics",
+        "title": "State-of-the-Art Diagnostic Equipment",
+        "body": "We use the latest diagnostic tools to pinpoint issues quickly and accurately, saving you time and money. No guesswork, just precise results.",
+        "bullets": [
+          "Advanced computer diagnostics",
+          "On-site scanning and testing",
+          "Detailed explanation of findings"
+        ],
+        "reverse": false,
+        "cardLabel": "Service",
+        "cardTitle": "Full-Service Auto Repair",
+        "cardBody": "From brake repairs to engine overhauls, we handle it all with expertise and care."
+      },
+      {
+        "eyebrow": "Quality Parts & Warranties",
+        "title": "We Stand Behind Our Work",
+        "body": "We use only high-quality OEM and aftermarket parts, and every repair comes with a solid warranty. Your peace of mind is our priority.",
+        "bullets": [
+          "Nationwide parts warranty",
+          "Certified technicians",
+          "Transparent pricing"
+        ],
+        "reverse": true,
+        "cardLabel": "Guarantee",
+        "cardTitle": "100% Satisfaction Guaranteed",
+        "cardBody": "If you're not happy, we'll make it right. That's our promise."
+      }
+    ],
+    "whyTitle": "Why Choose M & F Automotive Group Inc?",
+    "whyChooseUs": [
+      {
+        "title": "Experienced Technicians",
+        "description": "Our ASE-certified mechanics have decades of combined experience with all makes and models."
+      },
+      {
+        "title": "Honest & Transparent Pricing",
+        "description": "We provide upfront estimates and explain every recommendation so you can make informed decisions."
+      },
+      {
+        "title": "Fast Turnaround Times",
+        "description": "We value your time. Most services are completed the same day or within 24 hours."
+      },
+      {
+        "title": "Family-Owned & Operated",
+        "description": "We treat every customer like a neighbor. Our reputation is built on trust and quality service."
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "I've been bringing my cars here for years. They always do great work and explain everything clearly. Highly recommend!",
+        "author": "Mike R.",
+        "role": "Loyal Customer"
+      },
+      {
+        "quote": "Fair prices and honest advice. They fixed my AC quickly and it's been running perfectly ever since.",
+        "author": "Jessica L.",
+        "role": "Dallas Resident"
+      },
+      {
+        "quote": "Professional, friendly, and reliable. They saved me from a major repair by catching a small issue early.",
+        "author": "Tom S.",
+        "role": "Regular Client"
+      }
+    ],
+    "cta": {
+      "headline": "Ready to Get Your Car Running Smoothly?",
+      "subheadline": "Call us or book online to schedule your appointment today.",
+      "primaryCta": "Book Now",
+      "secondaryCta": "Call (214) 366-0909"
+    }
+  },
+  "servicesPage": {
+    "intro": "At M & F Automotive Group Inc, we offer a full range of auto repair and maintenance services to keep your vehicle running at its best. From routine oil changes to major engine repairs, our skilled technicians have you covered."
+  },
+  "services": [
+    {
+      "icon": "01",
+      "title": "Engine Diagnostics & Repair",
+      "shortDescription": "Expert engine diagnostics and repair using advanced tools.",
+      "longDescription": "Is your check engine light on? Our technicians use cutting-edge diagnostic equipment to identify issues quickly. We repair everything from minor sensor problems to complete engine overhauls, ensuring your car runs smoothly and efficiently.",
+      "benefits": [
+        "Accurate diagnostics save time and money",
+        "Restored engine performance and fuel efficiency",
+        "Longer engine lifespan with proper repairs"
+      ],
+      "process": [
+        {
+          "title": "Computer Scan",
+          "description": "We connect your vehicle to our diagnostic system to read error codes and live data."
+        },
+        {
+          "title": "Thorough Inspection",
+          "description": "Our mechanic inspects related components to confirm the root cause."
+        },
+        {
+          "title": "Repair & Test",
+          "description": "We perform the necessary repairs and test drive to ensure everything is perfect."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "How long does an engine diagnostic take?",
+          "answer": "Most diagnostics take about 1-2 hours, depending on the complexity."
+        },
+        {
+          "question": "Do you service all car brands?",
+          "answer": "Yes, we work on all makes and models, including foreign and domestic vehicles."
+        }
+      ],
+      "slug": "engine-diagnostics-repair"
+    },
+    {
+      "icon": "02",
+      "title": "Brake Services",
+      "shortDescription": "Complete brake inspection, repair, and replacement.",
+      "longDescription": "Your safety depends on reliable brakes. We offer comprehensive brake services including pad and rotor replacement, caliper repair, and brake fluid flushes. Our team ensures your braking system is in top condition.",
+      "benefits": [
+        "Enhanced stopping power and safety",
+        "Reduced noise and vibration",
+        "Prevent costly damage with regular inspections"
+      ],
+      "process": [
+        {
+          "title": "Brake Inspection",
+          "description": "We check pads, rotors, calipers, and fluid levels."
+        },
+        {
+          "title": "Component Replacement",
+          "description": "Worn parts are replaced with high-quality components."
+        },
+        {
+          "title": "Test Drive",
+          "description": "We test your brakes to ensure proper function and feel."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "How often should I replace my brake pads?",
+          "answer": "Typically every 30,000-70,000 miles, but it depends on driving habits."
+        },
+        {
+          "question": "Do you offer brake service warranties?",
+          "answer": "Yes, we stand behind our work with a warranty on parts and labor."
+        }
+      ],
+      "slug": "brake-services"
+    },
+    {
+      "icon": "03",
+      "title": "Oil Change & Preventive Maintenance",
+      "shortDescription": "Regular oil changes and multi-point inspections.",
+      "longDescription": "Keep your engine healthy with our oil change service. We use quality oils and filters, and include a multi-point inspection to catch potential issues early. Preventive maintenance saves you money in the long run.",
+      "benefits": [
+        "Extends engine life",
+        "Improves fuel economy",
+        "Early detection of problems"
+      ],
+      "process": [
+        {
+          "title": "Oil Drain & Filter Change",
+          "description": "We drain old oil and replace the filter with a new one."
+        },
+        {
+          "title": "Fluid Top-Off",
+          "description": "We check and top off all essential fluids."
+        },
+        {
+          "title": "Multi-Point Inspection",
+          "description": "We inspect belts, hoses, tires, and other key components."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "What type of oil do you use?",
+          "answer": "We offer conventional, synthetic blend, and full synthetic options to match your vehicle's needs."
+        },
+        {
+          "question": "How often should I get an oil change?",
+          "answer": "Most vehicles need one every 5,000-7,500 miles, but check your owner's manual."
+        }
+      ],
+      "slug": "oil-change-preventive-maintenance"
+    },
+    {
+      "icon": "04",
+      "title": "AC & Heating System Repair",
+      "shortDescription": "Keep your cabin comfortable year-round.",
+      "longDescription": "A malfunctioning AC or heater can make driving miserable. We diagnose and repair all climate control issues, from refrigerant leaks to compressor failures. Our technicians restore your comfort quickly.",
+      "benefits": [
+        "Comfortable driving in all seasons",
+        "Improved air quality",
+        "Prevent system damage with early repairs"
+      ],
+      "process": [
+        {
+          "title": "System Inspection",
+          "description": "We check refrigerant levels, compressor, and electrical components."
+        },
+        {
+          "title": "Leak Detection",
+          "description": "We use UV dye and electronic detectors to find leaks."
+        },
+        {
+          "title": "Repair & Recharge",
+          "description": "We fix the issue and recharge the system to manufacturer specs."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Why is my AC blowing warm air?",
+          "answer": "Common causes include low refrigerant, a faulty compressor, or a clogged condenser."
+        },
+        {
+          "question": "How long does an AC repair take?",
+          "answer": "Most repairs are completed within a few hours, depending on the issue."
+        }
+      ],
+      "slug": "ac-heating-system-repair"
+    }
+  ],
+  "about": {
+    "headline": "Your Trusted Local Auto Mechanic Since 1990",
+    "mission": "To provide honest, high-quality auto repair services that keep Dallas drivers safe and satisfied.",
+    "story": [
+      "M & F Automotive Group Inc was founded in 1990 with a simple mission: deliver reliable auto repair with integrity. Over the past three decades, we have grown from a small shop into a trusted name in Dallas, serving thousands of customers. Our team of ASE-certified technicians brings years of experience and a commitment to excellence on every vehicle.",
+      "We believe in transparency, quality parts, and fair pricing. Whether you need a quick oil change or a major engine repair, we treat your car as if it were our own. Our reputation is built on trust, and we’re proud to be a family-owned business that puts customers first."
+    ],
+    "highlight": {
+      "stat": "35+",
+      "label": "Years of Trusted Service"
+    },
+    "coreValues": [
+      {
+        "title": "Integrity",
+        "description": "We always communicate honestly and never recommend unnecessary repairs."
+      },
+      {
+        "title": "Quality",
+        "description": "We use top-tier parts and follow manufacturer specifications for every job."
+      },
+      {
+        "title": "Customer Focus",
+        "description": "Your satisfaction is our goal. We listen, explain, and deliver."
+      },
+      {
+        "title": "Community",
+        "description": "We support Dallas and take pride in serving our neighbors."
+      }
+    ]
+  },
+  "contact": {
+    "headline": "Get in Touch with M & F Automotive",
+    "subheadline": "Ready to schedule? Call us or fill out the form below. We'll get back to you promptly.",
+    "primaryCta": "Call (214) 366-0909",
+    "formCta": "Send Message",
+    "serviceAreas": [
+      "Dallas",
+      "Addison",
+      "Carrollton",
+      "Farmers Branch",
+      "Irving",
+      "Plano"
+    ]
+  },
+  "social_proof": {
+    "rating": 4.6,
+    "reviews": null
+  },
+  "meta": {
+    "niche": "Auto Mechanic",
+    "generated_by": "deepseek",
+    "review_snippets_used": 0
+  },
+  "phone_href": "tel:2143660909",
+  "current_year": 2026,
+  "header_cta": "Call Now"
+}
